@@ -8,7 +8,7 @@ In this project, I demonstrate how to build a basic monitoring and alert system 
 ## 1. Set Up Secrets and Logging  
 I began by creating a secret named `TopSecret` in **AWS Secrets Manager**. This secret stores a sample password in string/integer format.  
 Secrets Manager is a secure AWS service for storing sensitive credentials like API keys, account IDs, and tokens—protecting them from unauthorized access.
-![Top Secret Creation](cs/topsecret-creation.png)
+![Top Secret Creation](CS/topsecret-creation.png)
 ---
 
 ## 2. Configure Monitoring with CloudTrail 
